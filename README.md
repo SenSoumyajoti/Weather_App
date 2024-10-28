@@ -4,3 +4,8 @@
 <br><p> Go through it</p><br>
 <p>anyone want to make it more advanced make a branch like (*master) and enjoy it </p><br>
 <p> <strong>Live Link of weather App is here--></strong> https://sensoumyajoti.github.io/Weather_App/      </p>
+<br><br>
+<p>develop can be made --></p><br>
+<p> fix the css</p>
+<p> explore more in ui</p>
+<p> make the enter button functional for clicking search  button</p>
