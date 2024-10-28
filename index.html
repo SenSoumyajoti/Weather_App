@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Weather App</title>
+</head>
+
+<body>
+    <h1 id="name">Weather App</h1>
+    <div class="card" id="weather-container">
+        <form class="search" id="location-form">
+            <input type="text" placeholder="Enter city name" spellcheck="false" id="location-input">
+            <button type="submit"><img src="./icons/search_ph.png" alt="Search"></button>
+        </form>
+        <div class="weather" id="weather-data">
+            <!-- Weather data will be populated here dynamically by JavaScript -->
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+
+</html>
